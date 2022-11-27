@@ -1,0 +1,87 @@
+<html>
+
+<body style="background-color: Goldenrod">
+</body>
+<body>
+<section>
+<div class="photo"><img src="image/a.jpg"
+</div>
+<div class="photo effect"><img src="image/c.jpg"
+</div>
+</section>
+</body>
+
+  
+<ul>
+<li><a href="#">Главная</a></li>
+<li><a href="#">Анимированный баннер</a></li>
+<li><a href="#">Биография</a></li>
+<li><a href="#">Контакты</a></li>
+</ul>
+
+<div class="nesolestag-enadenud">
+  <h3 style="text-align:center;">Биография</h3>
+
+  <div class="ico-wrap"> 
+  <i class="fa fa-map-marker ico-contact"></i>
+  </div>
+ 
+  <div class="aio-icon-description">
+  Телегин Дмитрий Сергеевич родился 24 декабря 2002 года в г. Богородск Нижегородской области.
+<br>На 30 ноября 2022 года обучается в Нижегородском Государственном Университете им. Н. И. Лобачевского на радиофизическом факультете.
+<br>Курс обучения-2.
+<br>Время обучения 5,5 лет.
+<br>Не женат.
+<br>В совершенстве владеет английским и русскими языками.
+<br>Успеваемость по учёбе-средняя.
+<br>Увлечения-спорт, чтение, компьютерные игры, шахматы.
+  </div>
+  </div>
+
+
+
+
+
+<div class="nesolestag-enadenud">
+  <h3 style="text-align:left;">Контакты</h3>
+
+  <div class="ico-wrap"> 
+  <i class="fa fa-map-marker ico-contact"></i>
+  </div>
+  <div class="meanous-andscoev">
+  <h4 class="aio-icon-title">Арес студента
+  <div class="aio-icon-description">
+  607600, г. Богородск, ул. Маяковского,
+  <br>дом 83</div>
+  </div>
+
+  <span class="kesednsoled"></span>
+
+  <div class="ico-wrap">
+  <i class="fa fa-envelope ico-contact"></i>
+  </div>
+  <div class="meanous-andscoev">
+  <h4 class="aio-icon-title">Электронная почта:</h4>
+  <div class="aio-icon-description">
+  dima.urov02.@gmail.com
+  </div>
+  </div>
+
+  <span class="kesednsoled"></span>
+
+  <div class="ico-wrap">
+  <i class="fa fa-phone ico-contact"></i>
+  </div>
+  <div class="meanous-andscoev">
+  <h4 class="aio-icon-title">Контактный телефон:</h4>
+  <div class="aio-icon-description">
+  8 (920) 047-22-25
+  </div>
+  </div>
+
+  <span class="kesednsoled"></span>
+
+</div>
+
+
+</html>
